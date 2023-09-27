@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yomostova
 - 👀 I’m studying at the Technical University of Munich
-- 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me: yomostova@gmail.com
 
 <!---
